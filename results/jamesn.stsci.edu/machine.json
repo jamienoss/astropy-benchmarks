@@ -1,0 +1,8 @@
+{
+    "arch": "x86_64",
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz",
+    "machine": "jamesn.stsci.edu",
+    "os": "Darwin 15.6.0",
+    "ram": "34359738368",
+    "version": 1
+}

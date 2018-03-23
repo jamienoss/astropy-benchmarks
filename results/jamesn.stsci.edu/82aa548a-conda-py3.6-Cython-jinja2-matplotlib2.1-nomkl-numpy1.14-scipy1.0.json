@@ -1,0 +1,66 @@
+{
+    "commit_hash": "82aa548ae34a9ab245c98ff60b9d6cbcc4764462",
+    "date": 1507122520000,
+    "ended_at": {
+        "convolution.ConvolveBenchmarks.time_convolve": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_extend": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_fill": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_none": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_wrap": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_extend": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_fill": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_none": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_wrap": 1521751046000
+    },
+    "env_name": "conda-py3.6-Cython-jinja2-matplotlib2.1-nomkl-numpy1.14-scipy1.0",
+    "params": {
+        "Cython": "",
+        "arch": "x86_64",
+        "cpu": "Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz",
+        "jinja2": "",
+        "machine": "jamesn.stsci.edu",
+        "matplotlib": "2.1",
+        "nomkl": "",
+        "numpy": "1.14",
+        "os": "Darwin 15.6.0",
+        "python": "3.6",
+        "ram": "34359738368",
+        "scipy": "1.0"
+    },
+    "profiles": {},
+    "python": "3.6",
+    "requirements": {
+        "Cython": "",
+        "jinja2": "",
+        "matplotlib": "2.1",
+        "nomkl": "",
+        "numpy": "1.14",
+        "scipy": "1.0"
+    },
+    "results": {
+        "convolution.ConvolveBenchmarks.time_convolve": null,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_extend": null,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_fill": null,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_none": null,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_wrap": null,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve": null,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_extend": null,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_fill": null,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_none": null,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_wrap": null
+    },
+    "started_at": {
+        "convolution.ConvolveBenchmarks.time_convolve": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_extend": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_fill": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_none": 1521751046000,
+        "convolution.ConvolveBenchmarks.time_convolve_boundary_wrap": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_extend": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_fill": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_none": 1521751046000,
+        "convolution.ConvolveThreadedBenchmarks.time_convolve_boundary_wrap": 1521751046000
+    },
+    "version": 1
+}
